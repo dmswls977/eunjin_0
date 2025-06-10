@@ -28,7 +28,7 @@
 
 > 저희는 각자의 역할을 바탕으로 협력하며 프로젝트를 완성해 나갔습니다 💪
 
-| <img src="https://upload.wikimedia.org/wikipedia/en/9/9b/Pikachu_artwork.png" width="100"><br/>👩 한승희 (팀장) | <img src="https://static.wikia.nocookie.net/pokemon/images/2/2c/Detective_Pikachu.png" width="100"><br/>👩 강민정 | <img src="https://archives.bulbagarden.net/media/upload/2/27/AshHatPikachu.png" width="100"><br/>👩 신정은 | <img src="https://archives.bulbagarden.net/media/upload/e/e2/Spr_3r_025f.png" width="100"><br/>👩 이은진 | <img src="https://archives.bulbagarden.net/media/upload/1/17/Pokémon_Pikachu_2.gif" width="100"><br/>👩 최서린 |
+| <img src="https://upload.wikimedia.org/wikipedia/en/0/0d/Pikachu_Pokémon.png" width="50"/><br/>👩 한승희 (팀장) | <img src="https://upload.wikimedia.org/wikipedia/en/0/0d/Pikachu_Pokémon.png" width="50"/><br/>👩 강민정 | <img src="https://upload.wikimedia.org/wikipedia/en/0/0d/Pikachu_Pokémon.png" width="50"/><br/>👩 신정은 | <img src="https://upload.wikimedia.org/wikipedia/en/0/0d/Pikachu_Pokémon.png" width="50"/><br/>👩 이은진 | <img src="https://upload.wikimedia.org/wikipedia/en/0/0d/Pikachu_Pokémon.png" width="50"/><br/>👩 최서린 |
 |:---:|:---:|:---:|:---:|:---:|
 | • 프로젝트 총괄<br/>• 데이터 크롤링 | • 데이터 수집 및 전처리 | • UI 개발 (Streamlit) | • 기능 구현 및 UI 개선 | • DB 구축 및 연동 |
 | [@seunghee-han](https://github.com/seunghee-han) | [@kkminhye](https://github.com/kkminhye) | [@yeseulnim](https://github.com/yeseulnim) | [@sinminju](https://github.com/sinminju) | [@redwin02](https://github.com/redwin-02) |
