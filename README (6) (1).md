@@ -30,6 +30,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | • 프로젝트 총괄<br/>• 데이터 크롤링 | • 데이터 수집 및 전처리 | • UI 개발 (Streamlit) | • 기능 구현 및 UI 개선 | • DB 구축 및 연동 |
 | [@seunghee-han](https://github.com/seunghee-han) | [@kkminhye](https://github.com/kkminhye) | [@yeseulnim](https://github.com/yeseulnim) | [@sinminju](https://github.com/sinminju) | [@redwin02](https://github.com/redwin-02) |
+
 💬 *“협업과 커뮤니케이션을 통해 각자 맡은 역할을 책임감 있게 수행했습니다.”*
 
 
